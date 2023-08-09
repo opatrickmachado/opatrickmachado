@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Olá,+Meu+Nome+é+Patrick+Machado.;Eu+tenho+29+anos...;Moro+no+interior+de+São+Paulo!;Sou+Graduado+em+Analise+de+Sistemas!;Muito+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Olá,+Meu+Nome+é+Patrick+Machado.;Eu+tenho+30+anos...;Moro+no+interior+de+São+Paulo!;Sou+Graduado+em+Analise+de+Sistemas!;Muito+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=opatrickmachado&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
