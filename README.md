@@ -18,7 +18,10 @@
 <a href="https://instagram.com/opatrickmachado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:opatrickmachado@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/patrickmachadodepaula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://bit.ly/portfoliopatrickmachado" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=bitly&logoColor=white" alt="Portfolio"></a>
+<a href="https://wa.me/5511973248818" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
  </div>
+ 
  
  ### Habilidades Principais:
 
